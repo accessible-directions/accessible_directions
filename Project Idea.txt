@@ -1,0 +1,6 @@
+Idea for the project:
+Create a mobile app for blind people to have better street navigation. The app has specific directions (said out loud) such as:
+1. Navigation about obstacles/changes in the path coming up. For example, "side walk ends in 5 feet" or "street junction in 10 feet".
+2. Real time direction, so instead of "take a right in 50 feet", it tells you at the specific time you have to make a right that you should "take a right now".
+3. More specifics about the path. For example, checking if a junction is controlled or not, and give specific directions that way. If the sidewalk is uneven, alerting the person beforehand - possibly giving alternate routes (if possible).
+4. Emergency button if you need help that raises an alarm for passerby people to hear.
